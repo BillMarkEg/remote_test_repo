@@ -1,0 +1,4 @@
+copy file to Desktop
+cd Desktop
+spark-shell
+:load File_name 
